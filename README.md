@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/suryaviswanadh/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/suryaviswanadh/leetcode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/suryaviswanadh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryaviswanadh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryaviswanadh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/suryaviswanadh/leetcode/tree/master/0068-text-justification) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/suryaviswanadh/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
